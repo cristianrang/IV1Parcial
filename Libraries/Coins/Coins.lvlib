@@ -20,6 +20,11 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Set Coins Value Argument--cluster.ctl" Type="VI" URL="../Set Coins Value Argument--cluster.ctl"/>
 				<Item Name="Set Coins Argument--cluster.ctl" Type="VI" URL="../Set Coins Argument--cluster.ctl"/>
+				<Item Name="request credit Argument--cluster.ctl" Type="VI" URL="../request credit Argument--cluster.ctl"/>
+				<Item Name="request credit (Reply Payload)--cluster.ctl" Type="VI" URL="../request credit (Reply Payload)--cluster.ctl"/>
+				<Item Name="Request money Argument--cluster.ctl" Type="VI" URL="../Request money Argument--cluster.ctl"/>
+				<Item Name="Request money (Reply Payload)--cluster.ctl" Type="VI" URL="../Request money (Reply Payload)--cluster.ctl"/>
+				<Item Name="RESET CREDIT Argument--cluster.ctl" Type="VI" URL="../RESET CREDIT Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +39,9 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Set Coins.vi" Type="VI" URL="../Set Coins.vi"/>
+			<Item Name="request credit.vi" Type="VI" URL="../request credit.vi"/>
+			<Item Name="Request money.vi" Type="VI" URL="../Request money.vi"/>
+			<Item Name="RESET CREDIT.vi" Type="VI" URL="../RESET CREDIT.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

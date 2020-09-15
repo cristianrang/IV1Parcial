@@ -25,7 +25,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$2</Val>
+<Val>$2 </Val>
 </String>
 </Cluster>
 <Cluster>
@@ -37,7 +37,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$5</Val>
+<Val>$5 </Val>
 </String>
 </Cluster>
 <Cluster>

@@ -25,6 +25,7 @@
 			<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
 		</Item>
 		<Item Name="Menu.rtm" Type="Document" URL="../Libraries/UI/Menu.rtm"/>
+		<Item Name="SaveConfigProducts.vi" Type="VI" URL="../Libraries/Config/SaveConfigProducts.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
