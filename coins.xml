@@ -1,0 +1,56 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0</Version>
+<Array>
+<Name>Coins</Name>
+<Dimsize>4</Dimsize>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<String>
+<Name>Boolean Text</Name>
+<Val>$1</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<String>
+<Name>Boolean Text</Name>
+<Val>$2</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Numeric</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<String>
+<Name>Boolean Text</Name>
+<Val>$5</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name>Cluster</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>Numeric</Name>
+<Val>10.00000000000000</Val>
+</DBL>
+<String>
+<Name>Boolean Text</Name>
+<Val>$10</Val>
+</String>
+</Cluster>
+</Array>
+</LVData>
