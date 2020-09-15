@@ -13,7 +13,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$1</Val>
+<Val>1 PESO</Val>
 </String>
 </Cluster>
 <Cluster>
@@ -25,7 +25,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$2 </Val>
+<Val>2 PESOS</Val>
 </String>
 </Cluster>
 <Cluster>
@@ -37,7 +37,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$5 </Val>
+<Val>5 PESOS</Val>
 </String>
 </Cluster>
 <Cluster>
@@ -49,7 +49,7 @@
 </DBL>
 <String>
 <Name>Boolean Text</Name>
-<Val>$10</Val>
+<Val>10 PESOS</Val>
 </String>
 </Cluster>
 </Array>
